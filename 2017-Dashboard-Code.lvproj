@@ -259,6 +259,7 @@
 			<Item Name="Array To Autonomous Commands.vi" Type="VI" URL="../../../2016/2016-Dashboard-Code/Flying-Platypi-2016-Dashboard-Code/Autonomous VIs/Array To Autonomous Commands.vi"/>
 			<Item Name="CSV Parsing.vi" Type="VI" URL="../../../2016/2016-Dashboard-Code/Flying-Platypi-2016-Dashboard-Code/Autonomous VIs/CSV Parsing.vi"/>
 			<Item Name="Array Parser.vi" Type="VI" URL="../../../2016/2016-Dashboard-Code/Flying-Platypi-2016-Dashboard-Code/Autonomous VIs/Array Parser.vi"/>
+			<Item Name="IMUtoNormalGyro.vi" Type="VI" URL="../../../2016/2016-Dashboard-Code/Flying-Platypi-2016-Dashboard-Code/IMUtoNormalGyro.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="FRC_Dashboard" Type="EXE">
@@ -275,7 +276,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{F12754D6-B5E0-496F-B50C-3EDB6F368199}</Property>
-				<Property Name="Bld_version.build" Type="Int">7</Property>
+				<Property Name="Bld_version.build" Type="Int">11</Property>
 				<Property Name="Bld_version.major" Type="Int">17</Property>
 				<Property Name="Bld_version.patch" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Dashboard.exe</Property>
@@ -285,7 +286,7 @@
 				<Property Name="Destination[1].path" Type="Path">../builds/FRC_Dashboard/data</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
 				<Property Name="Exe_iconItemID" Type="Ref">/My Computer/Support/App EXE.ico</Property>
-				<Property Name="Source[0].itemID" Type="Str">{113054AA-D9C1-40AD-A155-1DC9F5EAEAE1}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{F00EF1E1-A0C6-4E0F-95D4-9043FF09480F}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Dashboard Main.vi</Property>
