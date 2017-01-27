@@ -21,6 +21,12 @@
 		</Item>
 		<Item Name="Team VIs" Type="Folder">
 			<Item Name="3D Display.vi" Type="VI" URL="../Team VIs/3D Display.vi"/>
+			<Item Name="Array Parser.vi" Type="VI" URL="../Team VIs/Array Parser.vi"/>
+			<Item Name="Array To Autonomous Commands.vi" Type="VI" URL="../Team VIs/Array To Autonomous Commands.vi"/>
+			<Item Name="CSV Parsing.vi" Type="VI" URL="../Team VIs/CSV Parsing.vi"/>
+			<Item Name="Encoder Crossover.vi" Type="VI" URL="../Team VIs/Encoder Crossover.vi"/>
+			<Item Name="Gyro Crossover.vi" Type="VI" URL="../Team VIs/Gyro Crossover.vi"/>
+			<Item Name="IMUtoNormalGyro.vi" Type="VI" URL="../Team VIs/IMUtoNormalGyro.vi"/>
 		</Item>
 		<Item Name="Dashboard Main.vi" Type="VI" URL="../Dashboard Main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
@@ -254,12 +260,6 @@
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="Prepare Joystick Data for Displays.vi" Type="VI" URL="../Prepare Joystick Data for Displays.vi"/>
-			<Item Name="Encoder Crossover.vi" Type="VI" URL="../../../2016/2016-Dashboard-Code/Flying-Platypi-2016-Dashboard-Code/Team VIs/Encoder Crossover.vi"/>
-			<Item Name="Gyro Crossover.vi" Type="VI" URL="../../../2016/2016-Dashboard-Code/Flying-Platypi-2016-Dashboard-Code/Team VIs/Gyro Crossover.vi"/>
-			<Item Name="Array To Autonomous Commands.vi" Type="VI" URL="../../../2016/2016-Dashboard-Code/Flying-Platypi-2016-Dashboard-Code/Autonomous VIs/Array To Autonomous Commands.vi"/>
-			<Item Name="CSV Parsing.vi" Type="VI" URL="../../../2016/2016-Dashboard-Code/Flying-Platypi-2016-Dashboard-Code/Autonomous VIs/CSV Parsing.vi"/>
-			<Item Name="Array Parser.vi" Type="VI" URL="../../../2016/2016-Dashboard-Code/Flying-Platypi-2016-Dashboard-Code/Autonomous VIs/Array Parser.vi"/>
-			<Item Name="IMUtoNormalGyro.vi" Type="VI" URL="../../../2016/2016-Dashboard-Code/Flying-Platypi-2016-Dashboard-Code/IMUtoNormalGyro.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="FRC_Dashboard" Type="EXE">
